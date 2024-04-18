@@ -8,7 +8,7 @@ https://bu-pwa--test-z5ub5itv.web.app
 - ~~451 :: addresses disabled play buttons after account edit~~
 
 
-ARE YOU SUBSCRIBED NOW??
+~~ARE YOU SUBSCRIBED NOW??~~
 
 
 ## Production Deployment
