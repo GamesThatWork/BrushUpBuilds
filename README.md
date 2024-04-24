@@ -5,8 +5,12 @@
 https://bu-pwa--test-z5ub5itv.web.app 
 
 
-
-- 454 ::
+- 457 ::  fixes
+  - unresponsive buttons on iPhone
+  - Budd vanished from matchgame
+  - undocumented (and perhaps newly generated?) bugs in Matchgame scoreboard
+  - improve & standardize the players points toothstar display
+- ~~454 ::~~
   - reinstate reorientation reboot (58)
 - ~~453 :: fix:~~
   - reorientation reboot (58)
