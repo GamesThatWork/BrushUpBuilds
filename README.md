@@ -4,8 +4,11 @@
 
 https://bu-pwa--test-z5ub5itv.web.app 
 
-
-- 457 ::  fixes
+- 458 :: fixes
+  - doubletap zoom
+  - name input field excessive size
+  - 
+- ~~457 :~~
   - unresponsive buttons on iPhone
   - Budd vanished from matchgame
   - undocumented (and perhaps newly generated?) bugs in Matchgame scoreboard
