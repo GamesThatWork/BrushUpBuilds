@@ -4,7 +4,11 @@
 
 https://bu-pwa--test-z5ub5itv.web.app 
 
-- 459 
+- 460
+  - _always_ starts at "Upgrade Account" screen (serious unreported 459 bug)
+  - "Go To Shop" button does not open correct brusher's account
+
+- ~~459~~ 
   - JOIN from shop to upgrade account
   - "Best Deal" label placement
   - Click on room in shop wheel NEVER GOES backward
