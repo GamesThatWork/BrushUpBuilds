@@ -5,8 +5,8 @@
 https://bu-pwa.web.app 
 
  
- - 1.2.99A
-Ready for testing
+ #### 1.3.0 
+ - Ready for testing
 
 
 
