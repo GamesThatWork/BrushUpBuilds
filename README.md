@@ -84,33 +84,10 @@ I will update frequently
 
 call: 
   bu-pwa.web.app/version   
-for latest veersion
-
-
-
+     for latest version
 
 ## Entry point
 https://bu-pwa.web.app/installer.html?SubjectID=XC111 
-
-
-## proposed schedule
-
-- Aug 24 1200UTC  - Test 1
-- Aug 25: respond to bugs
-- Aug 26 1200UTC  - Test 2
-- Aug 27: respond to bugs
-- Aug 28 1200UTC  - Test 3
-
-
-
- ## Build History
- #### BUILD 1.3.0 
- - Ready for testing
-
-
-
-
-
 
 
 
