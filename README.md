@@ -23,20 +23,69 @@ Please replicate this process
 
 ### Test these features as "adult":
 - Installer/Onboarding app
-#### [switch to the child device]
-- PWA Installation
-- Phone based Account Authentication
-- Family Account Set up in-app
-  - realtime reports (notification)
-- Child Account setup (in app)
 
-### Test these as "child":
-- Launch Game
-- Toothbrushing: Digital Mirror / 3D character / Song
-- pause/resume
-- change 'flavor', color, volume
-- Matching Game: Win/ Lose/ easrn points
-- Prize selection
+#### [switch to the child device]
+
+- PWA Installation
+ - in-app installation instructions
+ -  try to switch to app after installation
+ -  reload in browser & get reminder  to switch to app
+
+- Phone based Account Authentication
+
+- Set Up Family Account 
+ - UI visible, functional, easy to navigate
+ - Meaning of choices clear?
+ - can you set up realtime reports (notification)
+ - monetization is NOT currently enabled
+
+- Set up Child Profile
+ - Photo avatar
+ - UI test for clarity, navigation, meaning
+
+### Test these with "mind of a child":
+- Game
+ - 3D animation and sound
+ - song
+- Camera 
+  - Permissions clear to user
+  - Appear in mirror to start game
+  - Game proceeds anyway after 15 seconds with no appearance
+- Game Adjustments
+  - pause/resume
+  - flavor
+  - display
+  - sound
+- Match Game (aftergame)
+ - always see one challenge vs three match options
+ - alternate challenge cartoon vs video
+ - is the point system easy to understand w/o explainer?
+- Shopping
+  - UI understandable
+  - UI functional
+  - View options 
+  - Purchase options
+  - Purchase two prizes for same slot and switch between them
+
+### Brush Down -
+this is the  control version (placebo) for scientific test
+- Installation
+- Head centering
+- Brush all the way through
+There will be more intense testing of this app soon
+
+
+### Self-update
+ - Does the version automatically update when a new one is deployed
+
+Please be sure you have the latest build 
+currently  1.3.20
+I will update frequently
+
+call: 
+  bu-pwa.web.app/version   
+for latest veersion
+
 
 
 
